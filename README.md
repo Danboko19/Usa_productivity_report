@@ -29,6 +29,6 @@ The observed correlations and productivity trends provide insights into how mone
 The analysis successfully correlates key economic variables and develops a preliminary productivity model for the USA. Future work will focus on enhancing the model's accuracy and exploring time-shifted correlations.
 
 ### References: here is the link to the dataset and the pyhon coding and full visualization
-#### Dataset: https://docs.google.com/spreadsheets/d/1Vk-VWlN5edNOrcXiKoDJggmauYk9gOER/edit?usp=drive_link&ouid=100485104845932051388&rtpof=true&sd=true
+#### Dataset: https://docs.google.com/spreadsheets/d/1vXvkh43K1i9UKj988Qniv9VsQlnSiztV/edit?usp=sharing&ouid=100485104845932051388&rtpof=true&sd=true
 #### Python code:https://colab.research.google.com/drive/1A3GF1zLKl2tkNMw22Lkggvi8UMpxhDwY?authuser=0#scrollTo=bsF757NC6Nnx
 
